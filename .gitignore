@@ -1,0 +1,9 @@
+/config.php
+*.png
+*.jpg
+*.jpeg
+*.psd
+*.ttf
+*.otf
+*.woff
+*.eot
